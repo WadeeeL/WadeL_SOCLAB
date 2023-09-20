@@ -10,5 +10,5 @@ This repository stores datas for SOC LAB.
 
 ## Contributors
 
-* Advisor : Prof. Jiin Lai
-* Author : Wei-Chen Lien
+* Advisor : `Prof. Jiin Lai`
+* Author : `Wei-Chen Lien`
