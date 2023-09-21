@@ -1,5 +1,9 @@
 # Lab1 -- Tool installtion and Test
 
+* Board : PYNQ-Z2 ( xc7z020clg400-1 )
+* vitis_hls version : 2022.1
+* vivado version : 2022.1
+
 ## Linux instruction in ubuntu
 ```
 
