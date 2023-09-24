@@ -1,4 +1,4 @@
-# Lab1 -- Tool installtion and Test
+# Lab1 -- Vitis / Vivado Tools installtion & Test
 
 * Environment : Ubuntu_20.04.4_VB
 * Board : PYNQ-Z2 ( xc7z020clg400-1 )
