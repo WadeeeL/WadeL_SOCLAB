@@ -1,4 +1,4 @@
-# Lab2 -- FIR ( stream / master )
+# Lab2 -- HLS FIR ( stream / master )
 
 * Environment : Ubuntu_20.04.4_VB
 * Board : PYNQ-Z2 ( xc7z020clg400-1 )
