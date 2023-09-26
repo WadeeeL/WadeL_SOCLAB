@@ -21,19 +21,19 @@ Learn how to use HLS tool and Integrate it on Vivado.
 
 ## Screen dump 
 
-### C Synthesis Performance & Utilization
+### C Synthesis Performance & Utilization ( Vitis HLS )
 
 <img width="682" alt="synth_Performance   Utilization" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/6160f645-be46-4a8b-8e24-2c4574683045">
 
-### Cosimulation Performance
+### Cosimulation Performance ( Vitis HLS )
 
 <img width="330" alt="co-sim_Performance" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/6d23b886-af3f-418f-879c-ce0716912c64">
 
-### C Synthesis Interface
+### C Synthesis Interface ( Vitis HLS )
 
 <img width="406" alt="synth_Interface" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/c0573efe-1621-4de1-899f-8fc4968226a1">
 
-### Co-simulation waveform
+### Co-simulation waveform ( Vivado )
 
 <img width="1205" alt="Design_Co-sim waveform" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/d1b0f017-45a3-4885-a4c0-5b2b8194db64">
 <img width="1203" alt="Testbench_Co-sim waveform" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/25b2089b-53df-46c6-823f-b56c15ff4258">
