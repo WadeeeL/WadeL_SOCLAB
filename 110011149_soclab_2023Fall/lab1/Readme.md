@@ -15,6 +15,8 @@ Finally , using PYNQ-Z2 to verify design on Jupyter notebook.
 
 ## What is observed & learned 
 
+Learn how to use HLS tool and Integrate it on Vivado.
+
 ## Screen dump 
 
 ### C Synthesis Performamnce & Utilization
