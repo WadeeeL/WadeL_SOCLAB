@@ -26,7 +26,7 @@ Learn how to use HLS tool and Integrate it on Vivado.
 
 <img width="682" alt="synth_Performance   Utilization" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/6160f645-be46-4a8b-8e24-2c4574683045">
 
-###　Utilization　( Vivado )
+### Utilization　( Vivado )
 
 <img width="762" alt="vivado_utilization" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/e9ea3d44-294e-4bc5-8843-193a34e45d5c">
 
