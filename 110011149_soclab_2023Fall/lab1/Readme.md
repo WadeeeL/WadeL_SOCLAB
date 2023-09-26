@@ -25,7 +25,7 @@ Learn how to use HLS tool and Integrate it on Vivado.
 
 <img width="682" alt="synth_Performance   Utilization" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/6160f645-be46-4a8b-8e24-2c4574683045">
 
-### Cosimulation Performamnce
+### Cosimulation Performance
 
 <img width="330" alt="co-sim_Performance" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/6d23b886-af3f-418f-879c-ce0716912c64">
 
