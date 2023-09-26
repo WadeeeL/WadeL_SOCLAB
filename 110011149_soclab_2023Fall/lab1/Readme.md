@@ -15,7 +15,7 @@ Finally , using PYNQ-Z2 to verify design on Jupyter notebook.
 
 ## What is observed & learned 
 
-```cpp=
+```
 Learn how to use HLS tool and Integrate it on Vivado.
 ```
 
