@@ -16,7 +16,7 @@ Finally , using PYNQ-Z2 to verify design on Jupyter notebook.
 ## What is observed & learned 
 
 ```
-Observe that 
+Observe that resource utilization in Vitis_HLS and Vivado are different.
 Learn how to use HLS tool and Integrate it on Vivado.
 ```
 
