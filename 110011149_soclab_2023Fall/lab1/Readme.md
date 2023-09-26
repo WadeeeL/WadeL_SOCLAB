@@ -11,11 +11,9 @@
 
 ## Linux instruction in ubuntu
 ```
-
 sudo : 讓權限受到限制的使用者，暫時以超級使用者的權限執行特定指令
 pwd : 顯示資料夾完整路徑
 lsblk : 即list block，列出系統的可用 Block Device，但不會列出RAM disk
 cd : 變更目錄
 cp : copy
-
 ```
