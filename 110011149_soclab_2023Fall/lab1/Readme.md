@@ -4,6 +4,14 @@
 * Board : PYNQ-Z2 ( xc7z020clg400-1 )
 * Vitis version: 2022.1 ( vitis_hls / vivado )
 
+## Outline
+
+Purpose of Lab1 is let us to familiar with HLS design flow.
+By Vitis_HLS , turn C++ code to RTL ip. And then import ip into Vivado , to synthesize , implement and generat bitstream.
+Finally , using PYNQ-Z2 to verify design on Jupyter notebook.
+( This HLS test design is a 32-bits multiplier. )
+
+
 ## Test result by Jupyter Notebook
 
 <img width="723" alt="螢幕擷取畫面 2023-09-22 021440" src="https://github.com/WadeeeL/WadeLien_SOC_LAB/assets/134760983/1af5fc55-7fd7-40a4-899b-8d669dbd4616">
