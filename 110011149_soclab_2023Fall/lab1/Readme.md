@@ -7,7 +7,7 @@
 ## Outline
 
 Purpose of Lab1 is let us to familiar with HLS design flow.
-By Vitis_HLS , turn C++ code to RTL ip. And then import ip into Vivado , to synthesize , implement and generat bitstream.
+By Vitis_HLS , turn C++ code to RTL ip.And then import ip into Vivado , to synthesize , implement and generat bitstream.
 Finally , using PYNQ-Z2 to verify design on Jupyter notebook.
 ( This HLS test design is a 32-bits multiplier. )
 
