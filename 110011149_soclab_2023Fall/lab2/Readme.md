@@ -1,4 +1,4 @@
-# Lab2 -- HLS FIR ( stream / master )
+# Lab2 -- HLS FIR ( MAXI / Stream )
 
 * Environment : Ubuntu_20.04.4_VB
 * Board : KV260
